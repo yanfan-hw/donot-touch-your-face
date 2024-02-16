@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/donot-touch-your-face/static/css/main.fdc84a6f.css",
-    "main.js": "/donot-touch-your-face/static/js/main.9414b15a.js",
-    "static/js/787.02847dbc.chunk.js": "/donot-touch-your-face/static/js/787.02847dbc.chunk.js",
+    "main.css": "/donot-touch-your-face/static/css/main.b4736cd7.css",
+    "main.js": "/donot-touch-your-face/static/js/main.82734cce.js",
+    "static/js/27.345dcb2b.chunk.js": "/donot-touch-your-face/static/js/27.345dcb2b.chunk.js",
     "static/media/no.mp3": "/donot-touch-your-face/static/media/no.7d0468320d36023cdf89.mp3",
     "index.html": "/donot-touch-your-face/index.html",
-    "static/media/camera.svg": "/donot-touch-your-face/static/media/camera.14265884e476aa16f36164b2ab71f55f.svg",
-    "main.fdc84a6f.css.map": "/donot-touch-your-face/static/css/main.fdc84a6f.css.map",
-    "main.9414b15a.js.map": "/donot-touch-your-face/static/js/main.9414b15a.js.map",
-    "787.02847dbc.chunk.js.map": "/donot-touch-your-face/static/js/787.02847dbc.chunk.js.map"
+    "static/media/camera.svg": "/donot-touch-your-face/static/media/camera.14265884e476aa16f36164b2ab71f55f.svg"
   },
   "entrypoints": [
-    "static/css/main.fdc84a6f.css",
-    "static/js/main.9414b15a.js"
+    "static/css/main.b4736cd7.css",
+    "static/js/main.82734cce.js"
   ]
 }
